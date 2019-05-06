@@ -22,4 +22,3 @@ if operator == '1'
 end
 
 puts answer 
-
