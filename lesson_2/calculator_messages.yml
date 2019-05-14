@@ -1,0 +1,5 @@
+welcome: "Welcome to Calculator! Enter your name:"
+valid_name: "C'mon, gimme your name please!"
+first: "Please enter the first number"
+invalid: "Invalid. Please try again"
+second: "What is the second number?"

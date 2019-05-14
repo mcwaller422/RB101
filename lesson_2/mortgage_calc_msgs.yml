@@ -1,0 +1,7 @@
+welcome: "Welcome to the Mortgage and Car loan calculator!"
+loan: "How much is the loan in total?"
+apr: "What is the APR? (Please enter 5 for 5%)"
+time: "What is the loan duration in years?"
+answer: "Your monthly rate will be "
+again: "Would you like to calculate another loan?"
+# formula: p * (j / (1 - (1 + j)**(-n)))
