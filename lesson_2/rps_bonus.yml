@@ -1,0 +1,12 @@
+r: 'rock'
+s: 'scissors'
+p: 'paper'
+l: 'lizard'
+sp: 'spock'
+u: 'You won!'
+c: 'Computer won!'
+t: "It's a tie!"
+invalid: "That's not a valid choice, please try again."
+again: 'Would you like to play again?'
+
+# PICK['']
